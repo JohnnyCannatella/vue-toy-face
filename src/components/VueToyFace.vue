@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { defineComponent } from "vue";
+import { defineComponent, computed } from "vue";
 
 export default defineComponent({
   props: {
